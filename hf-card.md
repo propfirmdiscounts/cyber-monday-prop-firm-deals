@@ -31,9 +31,9 @@ The biggest verified Cyber Monday discount codes in the 2025 season are 80% OFF 
 |---|---|---|---|---|---|---|---|
 | 1 | Phidias Propfirm | PFD | 90% | Cyber Sale: 80% Off OTP & 60% Off Challenge Fees | 80% off | Ended | https://propfirmdiscount.com/prop-firm/phidias-propfirm/ |
 | 2 | Funding Traders | PFD | 70% | Cyber Monday Deal: 40% Off + 100% Profit Split | 40% off | Ended | https://propfirmdiscount.com/prop-firm/fundingtraders/ |
-| 3 | Atlas Funded | PFD | 50% | Half price on all accounts for Cyber Monday | 50% off | Ended | https://propfirmdiscount.com/prop-firm/atlas-funded/ |
-| 4 | Earn2Trade | PFD | 50% | Cyber Monday Sale: 60% OFF Entry Cost + $0 Activation Fee | 60% off | Ended | https://propfirmdiscount.com/prop-firm/earn2trade/ |
-| 5 | QT Funded | PFD | 50% | Cyber Monday Deal: 55% OFF + Free Account | 55% off | Ended | https://propfirmdiscount.com/prop-firm/qt-funded/ |
+| 3 | QT Funded | PFD | 60% | Cyber Monday Deal: 55% OFF + Free Account | 55% off | Ended | https://propfirmdiscount.com/prop-firm/qt-funded/ |
+| 4 | Atlas Funded | PFD | 50% | Half price on all accounts for Cyber Monday | 50% off | Ended | https://propfirmdiscount.com/prop-firm/atlas-funded/ |
+| 5 | Earn2Trade | PFD | 50% | Cyber Monday Sale: 60% OFF Entry Cost + $0 Activation Fee | 60% off | Ended | https://propfirmdiscount.com/prop-firm/earn2trade/ |
 | 6 | QT Futures | PFD | 50% | Cyber Monday Deal: 30% OFF Purchase & Activation Fees | 30% off | Ended | https://propfirmdiscount.com/prop-firm/qt-futures/ |
 | 7 | Blue Guardian Futures | PFD | 35% | Cyber Monday: 60% OFF + Two Accounts Deal | 60% off | Ended | https://propfirmdiscount.com/prop-firm/blue-guardian-futures/ |
 | 8 | Goat Funded Trader | CSV | 35% | Cyber Wave: 40% OFF All Plans (Ends Dec 7) | 40% off | Ended | https://propfirmdiscount.com/prop-firm/goat-funded-trader/ |
