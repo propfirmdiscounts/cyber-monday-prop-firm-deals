@@ -1,6 +1,6 @@
 # Cyber Monday Prop Firm Discount Codes (2026)
 
-As of 2025-12-16, 25 Cyber Monday deals from 20 prop firms are tracked, 24 of them published in the 2025 season. Every firm carries a verified discount code that works any time.
+As of 2026-11, 25 Cyber Monday deals from 20 prop firms are tracked, 24 of them published in the 2025 season. Every firm carries a verified discount code that works any time.
 
 **The Cyber Monday 2026 season is coming soon.** The last season that ran was 2025: 24 deals from 20 firms, published 2025-12-01 to 2025-12-16. Discount codes are not seasonal — every one below works today — and new 2026 Cyber Monday deals appear here as they are published, so check back for the lineup.
 
