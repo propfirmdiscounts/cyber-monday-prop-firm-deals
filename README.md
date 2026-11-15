@@ -10,16 +10,16 @@ The biggest verified Cyber Monday discount codes in the 2025 season are 80% OFF 
 
 | # | Prop firm | Exclusive code | Code discount (Standing) | Latest Cyber Monday deal | Deal link | Expires | Firm page |
 |---|---|---|---|---|---|---|---|
-| 1 | Phidias Propfirm | PFD | 80% | Cyber Sale: 80% Off OTP & 60% Off Challenge Fees with code PFD | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-cyber-sale-80-off/) | Ended | https://propfirmdiscount.com/prop-firm/phidias-propfirm/ |
-| 2 | FundingTraders | PFD | 40% | Cyber Monday Deal: 40% Off + 100% Profit Split with code PFD | [View Deal](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-cyber-monday-40-off-100-profit-split/) | Ended | https://propfirmdiscount.com/prop-firm/fundingtraders/ |
-| 3 | Atlas Funded | PFD | 50% | Half price on all accounts for Cyber Monday | [View Deal](https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-50-off-all-accounts-cyber-monday/) | Ended | https://propfirmdiscount.com/prop-firm/atlas-funded/ |
-| 4 | Earn2Trade | PFD | 60% | Cyber Monday Sale: 60% OFF Entry Cost + $0 Activation Fee with code PFD | [View Deal](https://propfirmdiscount.com/deals/earn2trade/earn2trade-cyber-monday-promotion/) | Ended | https://propfirmdiscount.com/prop-firm/earn2trade/ |
-| 5 | QT Funded | PFD | 50% | Cyber Monday Deal: 55% OFF + Free Account | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-cyber-monday-55-off-free-account-2/) | Ended | https://propfirmdiscount.com/prop-firm/qt-funded/ |
-| 6 | QT Futures | PFD | 50% | Cyber Monday Deal: 30% OFF Purchase & Activation Fees | [View Deal](https://propfirmdiscount.com/deals/qt-futures/qt-funded-cyber-monday-30-off-fees/) | Ended | https://propfirmdiscount.com/prop-firm/qt-futures/ |
-| 7 | TX3 Funding | PFDC | 50% | Cyber Monday Sale: 30% OFF Forex Challenges | [View Deal](https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-cyber-monday-30-off-forex/) | Ended | https://propfirmdiscount.com/prop-firm/tx3-funding/ |
-| 8 | AquaFunded | PFD | 35% | Cyber Monday Offer: 40% OFF All Accounts + 120% Refund | [View Deal](https://propfirmdiscount.com/deals/aquafunded/aquafunded-cyber-monday-40-off-120-refund/) | Ended | https://propfirmdiscount.com/prop-firm/aquafunded/ |
-| 9 | Blue Guardian Futures | PFD | 60% | Cyber Monday: 60% OFF + Two Accounts Deal with code PFD | [View Deal](https://propfirmdiscount.com/deals/blue-guardian-futures/blue-guardian-futures-cyber-monday-60-off-two-accounts/) | Ended | https://propfirmdiscount.com/prop-firm/blue-guardian-futures/ |
-| 10 | Goat Funded Trader | CSV | 35% | Cyber Wave: 40% OFF All Plans (Ends Dec 7) | [View Deal](https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-cyber-wave-40-off/) | Ended | https://propfirmdiscount.com/prop-firm/goat-funded-trader/ |
+| 1 | Phidias Propfirm | PFD | 80% | Cyber Sale: 80% Off OTP & 60% Off Challenge Fees with code PFD | [View Deal](https://propfirmdiscount.com/deals/phidias-propfirm/phidias-propfirm-cyber-sale-80-off/) | Ended | [https://propfirmdiscount.com/prop-firm/phidias-propfirm/](https://propfirmdiscount.com/prop-firm/phidias-propfirm/) |
+| 2 | FundingTraders | PFD | 40% | Cyber Monday Deal: 40% Off + 100% Profit Split with code PFD | [View Deal](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-cyber-monday-40-off-100-profit-split/) | Ended | [https://propfirmdiscount.com/prop-firm/fundingtraders/](https://propfirmdiscount.com/prop-firm/fundingtraders/) |
+| 3 | Atlas Funded | PFD | 50% | Half price on all accounts for Cyber Monday | [View Deal](https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-50-off-all-accounts-cyber-monday/) | Ended | [https://propfirmdiscount.com/prop-firm/atlas-funded/](https://propfirmdiscount.com/prop-firm/atlas-funded/) |
+| 4 | Earn2Trade | PFD | 60% | Cyber Monday Sale: 60% OFF Entry Cost + $0 Activation Fee with code PFD | [View Deal](https://propfirmdiscount.com/deals/earn2trade/earn2trade-cyber-monday-promotion/) | Ended | [https://propfirmdiscount.com/prop-firm/earn2trade/](https://propfirmdiscount.com/prop-firm/earn2trade/) |
+| 5 | QT Funded | PFD | 50% | Cyber Monday Deal: 55% OFF + Free Account | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-cyber-monday-55-off-free-account-2/) | Ended | [https://propfirmdiscount.com/prop-firm/qt-funded/](https://propfirmdiscount.com/prop-firm/qt-funded/) |
+| 6 | QT Futures | PFD | 50% | Cyber Monday Deal: 30% OFF Purchase & Activation Fees | [View Deal](https://propfirmdiscount.com/deals/qt-futures/qt-funded-cyber-monday-30-off-fees/) | Ended | [https://propfirmdiscount.com/prop-firm/qt-futures/](https://propfirmdiscount.com/prop-firm/qt-futures/) |
+| 7 | TX3 Funding | PFDC | 50% | Cyber Monday Sale: 30% OFF Forex Challenges | [View Deal](https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-cyber-monday-30-off-forex/) | Ended | [https://propfirmdiscount.com/prop-firm/tx3-funding/](https://propfirmdiscount.com/prop-firm/tx3-funding/) |
+| 8 | AquaFunded | PFD | 35% | Cyber Monday Offer: 40% OFF All Accounts + 120% Refund | [View Deal](https://propfirmdiscount.com/deals/aquafunded/aquafunded-cyber-monday-40-off-120-refund/) | Ended | [https://propfirmdiscount.com/prop-firm/aquafunded/](https://propfirmdiscount.com/prop-firm/aquafunded/) |
+| 9 | Blue Guardian Futures | PFD | 60% | Cyber Monday: 60% OFF + Two Accounts Deal with code PFD | [View Deal](https://propfirmdiscount.com/deals/blue-guardian-futures/blue-guardian-futures-cyber-monday-60-off-two-accounts/) | Ended | [https://propfirmdiscount.com/prop-firm/blue-guardian-futures/](https://propfirmdiscount.com/prop-firm/blue-guardian-futures/) |
+| 10 | Goat Funded Trader | CSV | 35% | Cyber Wave: 40% OFF All Plans (Ends Dec 7) | [View Deal](https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-cyber-wave-40-off/) | Ended | [https://propfirmdiscount.com/prop-firm/goat-funded-trader/](https://propfirmdiscount.com/prop-firm/goat-funded-trader/) |
 
 The newest is **Cyber Monday Sale: 60% OFF Entry Cost + $0 Activation Fee with code PFD** from Earn2Trade — 60% off.
 
@@ -29,9 +29,10 @@ The newest is **Cyber Monday Sale: 60% OFF Entry Cost + $0 Activation Fee with c
 - Firms with a code in the 2025 season: 20
 - Newest deal: 2025-12-16
 - Deals tagged on the site: 58 (25 of them from firms with a verified code, listed below)
-- Event page: https://propfirmdiscount.com/tag/cyber-monday/
-- Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
-- Deal dataset: https://propfirmdiscount.com/api/prop-firm-events/
+- GitHub repository: [https://github.com/propfirmdiscounts/cyber-monday-prop-firm-deals](https://github.com/propfirmdiscounts/cyber-monday-prop-firm-deals)
+- Event page: [https://propfirmdiscount.com/tag/cyber-monday/](https://propfirmdiscount.com/tag/cyber-monday/)
+- Full dataset: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
+- Deal dataset: [https://propfirmdiscount.com/api/prop-firm-events/](https://propfirmdiscount.com/api/prop-firm-events/)
 
 ## Cyber Monday prop firm deals FAQ
 
@@ -99,9 +100,9 @@ A deal is listed here because an editor tagged it for Cyber Monday on the site, 
 its dates fall near the event. A deal with no event tag appears in its firm's own dataset
 instead: https://github.com/propfirmdiscounts
 
-- Data source: https://propfirmdiscount.com
-- Event page: https://propfirmdiscount.com/tag/cyber-monday/
-- All firms: https://github.com/propfirmdiscounts/prop-firm-discount-codes
+- Data source: [https://propfirmdiscount.com](https://propfirmdiscount.com)
+- Event page: [https://propfirmdiscount.com/tag/cyber-monday/](https://propfirmdiscount.com/tag/cyber-monday/)
+- All firms: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
 ## Fields in `datasets/cyber-monday-prop-firm-deals.json`
 
