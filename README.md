@@ -1,12 +1,12 @@
-# Cyber Monday Prop Firm Discount Codes (2026)
+# Cyber Monday Prop Firm Deals & Discount Codes (2026)
 
-This Cyber Monday, 25 deals from 20 prop firms are tracked, with 24 published during the 2025 season. Every firm carries a verified discount code that works year-round.
+Explore Cyber Monday prop firm deals and discount codes from 20 proprietary trading firms, with 25 historical promotions tracked across multiple seasons. Compare campaign-specific discounts, promotional codes, and other offers, while checking each firm's standing discount code separately. Every listing includes its recorded discount, publication date, expiration information, and a link to the original deal.
 
 As of November 2026, the biggest verified Cyber Monday discount codes in the 2025 season are 80% OFF with code PFD at Phidias Propfirm, 60% OFF with code PFD at Blue Guardian Futures, 60% OFF with code PFD at Earn2Trade, 40% OFF with code PFD at Blue Guardian, and 40% OFF with code PFD at FundingTraders.
 
 **The Cyber Monday 2026 season is coming soon.** The last season that ran was 2025: 24 deals from 20 firms, published 2025-12-01 to 2025-12-16. Discount codes are not seasonal — every one below works today — and new 2026 Cyber Monday deals appear here as they are published, so check back for the lineup.
 
-## Prop Firms with the Highest Discount Codes in Cyber Monday 2025
+## Prop Firms with the Highest Cyber Monday Discounts 2025
 
 | # | Prop firm | Exclusive code | Code discount (Standing) | Latest Cyber Monday deal | Deal link | Expires | Firm page |
 |---|---|---|---|---|---|---|---|
@@ -21,20 +21,23 @@ As of November 2026, the biggest verified Cyber Monday discount codes in the 202
 | 9 | Blue Guardian Futures | PFD | 60% | Cyber Monday: 60% OFF + Two Accounts Deal with code PFD | [View Deal](https://propfirmdiscount.com/deals/blue-guardian-futures/blue-guardian-futures-cyber-monday-60-off-two-accounts/) | Ended | [Blue Guardian Futures Page](https://propfirmdiscount.com/prop-firm/blue-guardian-futures/) |
 | 10 | Goat Funded Trader | CSV | 35% | Cyber Wave: 40% OFF All Plans (Ends Dec 7) | [View Deal](https://propfirmdiscount.com/deals/goat-funded-trader/goat-funded-trader-cyber-wave-40-off/) | Ended | [Goat Funded Trader Page](https://propfirmdiscount.com/prop-firm/goat-funded-trader/) |
 
-The newest is **Cyber Monday Sale: 60% OFF Entry Cost + $0 Activation Fee with code PFD** from Earn2Trade — 60% off.
+The latest recorded Cyber Monday-tagged promotion is Earn2Trade offering Cyber Monday Sale: 60% OFF Entry Cost + $0 Activation Fee with code PFD, published on December 16, 2025. The offer has since ended.
 
 - Event: Cyber Monday
-- Deals tracked: 25 (24 in 2025)
-- Firms: 20
+- Cyber Monday deals in this dataset: 25
+- Firms represented: 20
+- Deals published in 2025: 24
 - Firms with a code in the 2025 season: 20
 - Newest deal: 2025-12-16
-- Deals tagged on the site: 58 (25 of them from firms with a verified code, listed below)
 - GitHub repository: [Cyber Monday Deals Repository](https://github.com/propfirmdiscounts/cyber-monday-prop-firm-deals)
+- All Cyber Monday-tagged deals on the main site: 58 (25 of them from firms with a verified code, listed below)
 - Event page: [Cyber Monday Deals on PropFirmDiscount](https://propfirmdiscount.com/tag/cyber-monday/)
 - Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 - Deal dataset: [Prop Firm Events API Record](https://propfirmdiscount.com/api/prop-firm-events/)
 
-## Cyber Monday prop firm deals FAQ
+This repository includes Cyber Monday-tagged deals from firms with a verified standing discount code. The main website may contain additional Cyber Monday-tagged promotions from firms that are not included in this dataset.
+
+## Cyber Monday Prop Firm Deals & Discount Codes FAQ
 
 **What is the newest Cyber Monday prop firm deal?**
 
@@ -50,11 +53,11 @@ The newest deal is 60% off. Standing discount codes among these firms run 85% of
 
 ---
 
-## Cyber Monday deal history
+## Cyber Monday Prop Firm Deal History
 
 Total deals tracked: **25**
 
-### 2025 (24 deals)
+### 2025 Cyber Monday Deals (24 deals)
 
 | Deal Date | Firm | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|---|
@@ -83,7 +86,7 @@ Total deals tracked: **25**
 | 2025-12-01 | FXIFY | FXIFY: Cyber Week Sale: 35% Off + 2 Free Add-ons | 35% off | Ended | Cyber Monday | [View Deal](https://propfirmdiscount.com/deals/fxify/fxify-cyber-week-35-off-free-addons/) |
 | 2025-12-01 | Finotive Funding | Finotive Funding: Cyber Monday Deal: 40% OFF Site Wide (Extra 25% with code) – Up to 65% OFF | 40% off | Ended | Cyber Monday | [View Deal](https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-cyber-monday-40-off/) |
 
-### 2024 (1 deal)
+### 2024 Cyber Monday Deals (1 deal)
 
 | Deal Date | Firm | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|---|
@@ -91,20 +94,19 @@ Total deals tracked: **25**
 
 ---
 
-## About this repository
+## About the Cyber Monday Prop Firm Deals Dataset
 
-This repository mirrors every **Cyber Monday** deal published on PropFirmDiscount.com by a
-firm carrying a verified discount code, regenerated from the live API.
+This dataset provides a historical record of Cyber Monday-tagged promotional deals published on PropFirmDiscount.com by proprietary trading firms with recorded standing discount codes. Each record preserves the campaign's original discount details, publication date, expiration information, and related firm data. The dataset is regenerated from the PropFirmDiscount API.
 
 A deal is listed here because an editor tagged it for Cyber Monday on the site, not because
 its dates fall near the event. A deal with no event tag appears in its firm's own dataset
-instead: https://github.com/propfirmdiscounts
+instead in the [PropFirmDiscount Repositories](https://github.com/propfirmdiscounts).
 
 - Data source: [PropFirmDiscount.com](https://propfirmdiscount.com)
 - Event page: [Cyber Monday Deals on PropFirmDiscount](https://propfirmdiscount.com/tag/cyber-monday/)
 - All firms: [All Prop Firms Directory](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
-## Fields in `datasets/cyber-monday-prop-firm-deals.json`
+## Cyber Monday Prop Firm Deals Dataset: Field Definitions
 
 One row per deal. The first fields are the observation exactly as the
 PropFirmDiscount API returns it; the firm's own code fields and the
@@ -134,13 +136,13 @@ To state one of these offers: the code is `standing_code`, worth
 promotion, `discount_value` and `date_exp` describe that deal, and
 `post_url` is its page.
 
-## Freshness
+## Data Freshness & Verification
 
 The deal history above is the source of truth for what changed and when.
 Standing codes are re-verified by the PropFirmDiscount team; campaign
 codes come and go with each promotion. The most recent deal date carried
 in this file is the `Newest deal` value above.
 
-## License
+## Data License
 
 Data © PropFirmDiscount. Codes may be referenced with attribution and a link to [PropFirmDiscount.com](https://propfirmdiscount.com).
