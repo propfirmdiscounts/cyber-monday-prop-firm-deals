@@ -30,7 +30,7 @@
       "Site-Wide Purchases."
     ],
     "discount_value": "55%",
-    "standing_code": "PFD",
+    "standing_code": "PFDDEAL",
     "standing_discount": "50%",
     "date_published": "2025-12-09",
     "date_exp": "Ended",
@@ -50,7 +50,7 @@
       "Futures Evaluations And Instant Models."
     ],
     "discount_value": "30%",
-    "standing_code": "PFD",
+    "standing_code": "PFDDEAL",
     "standing_discount": "50%",
     "date_published": "2025-12-05",
     "date_exp": "Ended",
@@ -410,7 +410,7 @@
       "All Evaluation Models."
     ],
     "discount_value": "55%",
-    "standing_code": "PFD",
+    "standing_code": "PFDDEAL",
     "standing_discount": "50%",
     "date_published": "2025-12-01",
     "date_exp": "Ended",
@@ -470,7 +470,7 @@
       "All Accounts (Challenge, Pro, Instant Lite)."
     ],
     "discount_value": "40%",
-    "standing_code": "JACKICHUN",
+    "standing_code": "PFDC",
     "standing_discount": "25%",
     "date_published": "2025-12-01",
     "date_exp": "Ended",
