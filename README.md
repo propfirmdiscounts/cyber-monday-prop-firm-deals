@@ -1,10 +1,10 @@
 # Cyber Monday Prop Firm Deals & Discount Codes (2026)
 
-Explore Cyber Monday prop firm deals and discount codes from 19 proprietary trading firms, with 23 historical promotions tracked across multiple seasons. Compare campaign-specific discounts, promotional codes, and other offers, while checking each firm's standing discount code separately. Every listing includes its recorded discount, publication date, expiration information, and a link to the original deal.
+Explore Cyber Monday prop firm deals and discount codes from 18 proprietary trading firms, with 22 historical promotions tracked across multiple seasons. Compare campaign-specific discounts, promotional codes, and other offers, while checking each firm's standing discount code separately. Every listing includes its recorded discount, publication date, expiration information, and a link to the original deal.
 
 As of November 2026, the biggest verified Cyber Monday discount codes in the 2025 season are 80% OFF with code PFD at Phidias Propfirm, 60% OFF with code PFD at Blue Guardian Futures, 60% OFF with code PFD at Earn2Trade, 40% OFF with code PFD at Blue Guardian, and 40% OFF with code PFD at FundingTraders.
 
-**The Cyber Monday 2026 season is coming soon.** The last season that ran was 2025: 22 deals from 19 firms, published 2025-12-01 to 2025-12-16. Discount codes are not seasonal — every one below works today — and new 2026 Cyber Monday deals appear here as they are published, so check back for the lineup.
+**The Cyber Monday 2026 season is coming soon.** The last season that ran was 2025: 21 deals from 18 firms, published 2025-12-01 to 2025-12-16. Discount codes are not seasonal — every one below works today — and new 2026 Cyber Monday deals appear here as they are published, so check back for the lineup.
 
 ## Prop Firms with the Highest Cyber Monday Discounts 2025
 
@@ -24,13 +24,13 @@ As of November 2026, the biggest verified Cyber Monday discount codes in the 202
 The latest recorded Cyber Monday-tagged promotion is Earn2Trade offering Cyber Monday Sale: 60% OFF Entry Cost + $0 Activation Fee with code PFD, published on December 16, 2025. The offer has since ended.
 
 - Event: Cyber Monday
-- Cyber Monday deals in this dataset: 23
-- Firms represented: 19
-- Deals published in 2025: 22
-- Firms with a code in the 2025 season: 19
+- Cyber Monday deals in this dataset: 22
+- Firms represented: 18
+- Deals published in 2025: 21
+- Firms with a code in the 2025 season: 18
 - Newest deal: 2025-12-16
 - GitHub repository: [Cyber Monday Deals Repository](https://github.com/propfirmdiscounts/cyber-monday-prop-firm-deals)
-- All Cyber Monday-tagged deals on the main site: 58 (23 of them from firms with a verified code, listed below)
+- All Cyber Monday-tagged deals on the main site: 58 (22 of them from firms with a verified code, listed below)
 - Event page: [Cyber Monday Deals on PropFirmDiscount](https://propfirmdiscount.com/tag/cyber-monday/)
 - Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 - Deal dataset: [Prop Firm Events API Record](https://propfirmdiscount.com/api/prop-firm-events/)
@@ -45,7 +45,7 @@ This repository includes Cyber Monday-tagged deals from firms with a verified st
 
 **Do these firms have discount codes?**
 
-Yes. Every one of the 19 firms listed here carries a verified discount code that works any time, with no start date and no end date. The biggest is 85% off with code PFD at Phidias Propfirm. The code is separate from the Cyber Monday offer itself: the offer belongs to the campaign, the code works whatever the season.
+Yes. Every one of the 18 firms listed here carries a verified discount code that works any time, with no start date and no end date. The biggest is 85% off with code PFD at Phidias Propfirm. The code is separate from the Cyber Monday offer itself: the offer belongs to the campaign, the code works whatever the season.
 
 **How much is off?**
 
@@ -55,9 +55,9 @@ The newest deal is 60% off. Standing discount codes among these firms run 85% of
 
 ## Cyber Monday Prop Firm Deal History
 
-Total deals tracked: **23**
+Total deals tracked: **22**
 
-### 2025 Cyber Monday Deals (22 deals)
+### 2025 Cyber Monday Deals (21 deals)
 
 | Deal Date | Firm | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|---|
@@ -80,7 +80,6 @@ Total deals tracked: **23**
 | 2025-12-01 | Dominion Funding | Dominion Funding: Cyber Monday Sale: 30% Off All Accounts | 30% off | Ended | Cyber Monday | [View Deal](https://propfirmdiscount.com/deals/dominion-funding/dominion-funding-cyber-monday-30-off/) |
 | 2025-12-01 | Earn2Trade | Earn2Trade: Cyber Monday Offer: 60% OFF + Free Activation with code PFD | 60% off | Ended | Cyber Monday | [View Deal](https://propfirmdiscount.com/deals/earn2trade/earn2trade-cyber-monday-60-off-free-activation/) |
 | 2025-12-01 | QT Funded | QT Funded: Cyber Monday Deal: 55% OFF + Free Account | 55% off | Ended | Cyber Monday | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-cyber-monday-55-off-free-account/) |
-| 2025-12-01 | Seacrest Markets | Seacrest Markets: Cyber Monday Offer: 30% OFF + Triple Rewards | 30% off | Ended | Cyber Monday | [View Deal](https://propfirmdiscount.com/deals/seacrest-markets/seacrest-markets-cyber-monday-30-off-triple-rewards/) |
 | 2025-12-01 | FXIFY | FXIFY: Cyber Week Sale: 35% Off + 2 Free Add-ons | 35% off | Ended | Cyber Monday | [View Deal](https://propfirmdiscount.com/deals/fxify/fxify-cyber-week-35-off-free-addons/) |
 | 2025-12-01 | Finotive Funding | Finotive Funding: Cyber Monday Deal: 40% OFF Site Wide (Extra 25% with code) – Up to 65% OFF | 40% off | Ended | Cyber Monday | [View Deal](https://propfirmdiscount.com/deals/finotive-funding/finotive-funding-cyber-monday-40-off/) |
 
